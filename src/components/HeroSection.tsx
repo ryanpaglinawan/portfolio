@@ -39,7 +39,7 @@ const HeroSection: React.FC = () => {
         {/* Main Hero Content */}
         <div className={`transform transition-all duration-1000 ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'}`}>
           <h1 className="text-5xl sm:text-7xl font-bold mb-6 bg-gradient-to-r from-cyan-400 via-purple-400 to-blue-400 bg-clip-text text-transparent">
-            Ryan P. Paglinawan
+            Ryan Paglinawan
           </h1>
           
           <p className="text-xl sm:text-2xl mb-8 text-gray-300 font-light">
